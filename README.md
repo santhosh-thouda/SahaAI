@@ -2,7 +2,7 @@
 
 Saha AI is a full-stack AI chatbot application designed to replicate the experience of modern Large Language Model interfaces. Built with the MERN stack (MongoDB, Express, React, Node.js) and powered by the Groq API, it offers a seamless, responsive, and feature-rich chat experience.
 
-![Saha AI Screenshot](https://via.placeholder.com/800x400?text=Saha+AI+Screenshot) *<!-- Replace with actual screenshot -->*
+![Saha AI Screenshot](working.png) *<!-- Replace with actual screenshot -->*
 
 ## 🚀 Features
 
