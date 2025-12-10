@@ -45,8 +45,8 @@ Saha AI is a full-stack AI chatbot application designed to replicate the experie
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/saha-ai.git
-cd saha-ai
+git clone https://github.com/yourusername/SahaAI.git
+cd SahaAI
 ```
 
 ### 2. Backend Setup
